@@ -1,3 +1,1 @@
-# AutomationForSampleChallenge
-
-sdtdg
+# AutomationTestSample

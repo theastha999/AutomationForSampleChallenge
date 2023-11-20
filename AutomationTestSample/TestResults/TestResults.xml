@@ -1,0 +1,19 @@
+<testsuites>
+  <testsuite name="AutomationTestSample.dll" tests="3" skipped="0" failures="0" errors="0" time="1.6949477" timestamp="2023-11-01T00:34:25" hostname="CG-MB-0106" id="0" package="AutomationTestSample.dll">
+    <properties />
+    <testcase classname="AutomationTestSample.TestingFramework.Tests.APITest" name="PerformGetRequestForPatients" time="0.2441784" />
+    <testcase classname="AutomationTestSample.TestingFramework.Tests.APITest" name="PerformGetRequestForOrder" time="0.0933673" />
+    <testcase classname="AutomationTestSample.TestingFramework.Tests.OrderTest" name="ValidateMandatoryFieldsForOrderForm" time="1.3574020" />
+    <system-out>Order is created
+
+
+Test Framework Informational Messages:
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.5.3.1+6b60a9e56a (64-bit .NET 6.0.24)
+[xUnit.net 00:00:00.06]   Discovering: AutomationTestSample
+[xUnit.net 00:00:00.08]   Discovered:  AutomationTestSample
+[xUnit.net 00:00:00.08]   Starting:    AutomationTestSample
+[xUnit.net 00:00:05.12]   Finished:    AutomationTestSample
+</system-out>
+    <system-err></system-err>
+  </testsuite>
+</testsuites>

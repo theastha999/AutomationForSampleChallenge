@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PcNcV39C3ltavgsdGFtSeQnnD/NxAL8HPNL+2FqgkpM=",
+  "Source": "AutomationTestSample",
+  "BasePath": "_content/AutomationTestSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutomationTestSample/wwwroot",
+      "Source": "AutomationTestSample",
+      "ContentRoot": "/Users/astha.jaiswal/Documents/GitHub/AutomationTestSample/AutomationTestSample/wwwroot/",
+      "BasePath": "_content/AutomationTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/astha.jaiswal/Documents/GitHub/AutomationTestSample/AutomationTestSample/wwwroot/favicon.ico",
+      "SourceId": "AutomationTestSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/astha.jaiswal/Documents/GitHub/AutomationTestSample/AutomationTestSample/wwwroot/",
+      "BasePath": "_content/AutomationTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}

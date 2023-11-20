@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44449",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/astha.jaiswal/Documents/GitHub/AutomationTestSample/AutomationTestSample/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
